@@ -1,5 +1,5 @@
 #
-
+* 10/12/2015 - Oficina de IoT [24]
 * 03/12/2015 - Oficina de IoT [23]
 * 26/11/2015 - Oficina de IoT [22]
 * 19/11/2015 - Oficina de IoT [21]
