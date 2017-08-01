@@ -71,12 +71,12 @@ https://lhc.net.br/wiki/Oficina_de_IoT
 * 09/02/2017 - #01 Apresentação da NVIDIA Tegra K1 Computer on Module - Apalis TK1
 * 16/02/2017 - #02 Brainstorming de projetos e atividades para o LHC.
 * 23/02/2017 - #03 Apresentação de André Curvello - Oficina de Linkit Smart 7688 Duo - Processamento Assimétrico aplicado a IoT
-* 02/03/2017 - #04 Construa seu proprio RTOS - Introducao, partindo do kernel
-* 09/03/2017 - #05 Construa seu proprio RTOS - Gerenciador de threads 
-* 16/03/2017 - #06 Construa seu proprio RTOS - Semaforos e ISR 
+* 02/03/2017 - #04 [Construa seu proprio RTOS - Introducao, partindo do kernel](https://github.com/uLipe/rtos_lhc)
+* 09/03/2017 - #05 [Construa seu proprio RTOS - Gerenciador de threads](https://github.com/uLipe/rtos_lhc) 
+* 16/03/2017 - #06 [Construa seu proprio RTOS - Semaforos e ISR](https://github.com/uLipe/rtos_lhc) 
 * 23/03/2017 - #07 Open Hackerspace
-* 30/03/2017 - #08 Construa seu proprio RTOS - Mensagens com Queues
-* 13/04/2017 - #09 Construa seu proprio RTOS - Final
+* 30/03/2017 - #08 [Construa seu proprio RTOS - Mensagens com Queues](https://github.com/uLipe/rtos_lhc)
+* 13/04/2017 - #09 [Construa seu proprio RTOS - Final](https://github.com/uLipe/rtos_lhc)
 * 20/04/2017 - #10 Apresentação da SigFox
 * 04/05/2017 - #11 Desenvolvendo seu Projeto sem Arduino.
 * 11/05/2017 - #12 Moto mods
